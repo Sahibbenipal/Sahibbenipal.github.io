@@ -10,6 +10,7 @@
 | 12/07/2024 | 2nd Year Seniors | Inroduction to Excel and ChatGPT in an interactive way |
 | 12/07/2024 | Prof. Sanchit Mehra| Sir made us revise the concepts of Differentiation and its applications |
 | 15/07/2024 | Dr. Randhir Singh | We learned to use Github and made our own website using Github |
-| 15/07/2024 | Dr.Pyare Lal Garg | Students wellfare |
-| 15/07/2024 | Dr. Sony Goyal |     |
+| 15/07/2024 | Dr.Pyare Lal Garg | Sir told us the methods about Problem Solving and gave speech about Student Wellfare |
+| 15/07/2024 | Dr. Sony Goyal | Sir's speech was a powerful reminder that we have the strength to achieve our dreams and be successful in life |
 | 15/07/2024 | Mr. Pancham Jai Singh Gill | We were taught about the body language and about automobile club |
+
