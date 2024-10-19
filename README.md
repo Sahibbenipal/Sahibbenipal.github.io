@@ -1,6 +1,6 @@
 # Sahibbenipal.github.io
 **I am Sahibdeep Singh** 
-> # - **In this repository I will share my experiance in Guru Nanak Dev Enginering Collage Ludhaina about Induction Programme**
+> # - **In this repository I will share my experiance at Guru Nanak Dev Enginering Collage,Ludhaina**
 ## Report of Student Induction Programme 2024. 
 
 | Date | Resource Person | Description |
@@ -23,7 +23,7 @@
 |18/07/2024| Er.Jasvir Singh Grewal | We got to know about NSS and its functions in the society |
 |19/07/2024|Er.Kanwardeep Kalra| Madam taught us about corporate society and its different view points |
 |19/07/2024| Mr.Jaswinder Singh | Sir made our day with the most engaging session of science and made learning fun |
-|19/07/2024| **Departmental** | **Visit** |
+|19/07/2024| **Departmental**  **Visit** |  |
 
 
 ### This is my Excel Certificate 👇🏻
